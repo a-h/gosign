@@ -4,6 +4,8 @@ gosign
 Middleware Which Signs HTTP Reponses Using a Private Key
 --------------------------------------------------------
 
+![Exmample of output](screenshot.png)
+
 To generate private and public keys:
 
 ```
